@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import os
 from ml_model import predict_ml
 from recommender import refine_with_rules
@@ -8,6 +9,7 @@ from itinerary import generate_itinerary
 from insights import generate_insights
 
 app = Flask(__name__)
+CORS(app)
 
 @app.route('/plan', methods=['POST'])
 def plan_trip():
