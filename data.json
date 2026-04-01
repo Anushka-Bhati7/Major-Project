@@ -1,0 +1,44 @@
+[
+  {
+    "state": "Himachal Pradesh",
+    "city": "Manali",
+    "type": "mountains",
+    "avg_budget": 8000,
+    "crowd": "medium"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "city": "Shimla",
+    "type": "mountains",
+    "avg_budget": 7000,
+    "crowd": "low"
+  },
+  {
+    "state": "Goa",
+    "city": "Goa",
+    "type": "beach",
+    "avg_budget": 10000,
+    "crowd": "high"
+  },
+  {
+    "state": "Uttarakhand",
+    "city": "Rishikesh",
+    "type": "peaceful",
+    "avg_budget": 6000,
+    "crowd": "low"
+  },
+  {
+    "state": "Kerala",
+    "city": "Munnar",
+    "type": "nature",
+    "avg_budget": 9000,
+    "crowd": "low"
+  },
+  {
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "type": "heritage",
+    "avg_budget": 7000,
+    "crowd": "medium"
+  }
+]
